@@ -1,4 +1,4 @@
-const year = 2024
+const year = 2208
 
  function kabisa() {
     if ((year % 4 === 0 && year % 100 !== 0) || (year % 100 === 0 && year % 400 === 0)) {

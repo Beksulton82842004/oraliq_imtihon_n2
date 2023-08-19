@@ -10,14 +10,15 @@ for (let i = 0; i < element.length; i++) {
     console.log(elements);
 
     if (element[i] < 0) {
-        manfiy++
-    } else {
-       
         musbat += element[i]
+        
+    } else {
+        manfiy++
+       
     }
     
 }
 return[musbat,manfiy];
 }
 
-// console.log(number());
+console.log(number());

@@ -12,4 +12,4 @@ function son(number) {
   }
 }
 
-son(toArr);
+// son(toArr);
