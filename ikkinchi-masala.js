@@ -6,9 +6,9 @@ function son(number) {
   const reversed = toArr.reverse();
   const toStr2 = reversed.join("");
   if (toStr2 == toStr) {
-    console.log("Palindrom son");
+    console.log("Palindrom ");
   } else {
-    console.log("palindron son emas");
+    console.log("palindron giemas");
   }
 }
 
